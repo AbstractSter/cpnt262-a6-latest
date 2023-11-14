@@ -25,10 +25,6 @@ function handleInput(event) {
       // Clear the input after adding to the array
       inputArray = "";
     }
-
-    // function handleInput(event) {
-    //   inputArray = event.target.value;
-    // }
   </script>
 
 <h1>Welcome to SvelteKit</h1>
